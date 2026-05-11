@@ -217,3 +217,4 @@ When the wizard is done, restart the application and run the exploits again to c
 "autotrigger 123" 
 "autotrigger 1234" 
 "autotrigger431" 
+"autotrigger431" 
